@@ -34,4 +34,7 @@ npm run lint
 - using `npm run build` compiles and minifies for production  
 - Successfull Deployment into a master file into any one of version control like github
 
+4) I have created search bar for cat breeds here in this drop down i have called different cat breed api values 
+
+5) Displayed random images using api
 
